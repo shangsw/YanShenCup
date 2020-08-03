@@ -6,4 +6,3 @@ from .resnet_se  import *
 from .resnet_cbam  import *
 from .resnet_bam  import *
 from .resnet_sk  import *
-from .vgg_zty import *
